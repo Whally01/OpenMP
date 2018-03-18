@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -fopenmp -g   CMakeFiles/untitled.dir/main.cpp.o  -o untitled 
